@@ -1,1 +1,1 @@
-Projeto de uma Página de Apresentação.
+Projeto de uma Página de Perfil.
